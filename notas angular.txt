@@ -33,3 +33,12 @@ comandos de typescript empiezan con tsc( los usamos para transpilar: traducir de
 
 cls para limpiar la consola
 tree te muestra la estructura de carpetas y subcarpetas que hay
+
+dentro de la carpeta del proyecto para abrir el VSC: code .
+
+carpeta asset para insertar img, videos, sonidos.. etc
+
+<app-root> es un componente que es inyectado dentro del archivo index
+
+generar nuevos componentes
+ng g c nombreDelComponente g(generate) c(component)
