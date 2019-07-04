@@ -1,0 +1,22 @@
+instalar nodejs
+
+instalar angular npm -g install @angular/cli
+
+-g es para instalar angular de manera global, para todos los users del sistema
+
+instalamos typescript(lenguaje de angular) typescript -> javascript
+npm -g install typescript
+
+Bajar visual studio code
+
+Comando npm: para instalaciones de componentes, paquetes y dependencias(lo que inyectamos en la app)
+
+para que nos ayude con la sintaxis en el VSC
+npm install -g typings
+
+para instalar bootstrap
+npm install -g bootstrap
+
+comandos de angular empiezan con ng
+
+comandos de typescript empiezan con tsc( los usamos para transpilar: traducir de typescript a javascript)
