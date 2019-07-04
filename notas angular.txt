@@ -15,7 +15,9 @@ para que nos ayude con la sintaxis en el VSC
 npm install -g typings
 
 para instalar bootstrap
+
 npm install -g bootstrap
+npm install -g jquery
 
 comandos de angular empiezan con ng -> creacion y habilitar el servidor
 
