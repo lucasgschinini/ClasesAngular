@@ -23,7 +23,7 @@ comandos de angular empiezan con ng -> creacion y habilitar el servidor
 
 ng v (la version de angular)
 
-para crear un nuevo proyecto
+para crear un nuevo proyecto: primero bajar bootstrap y despues crear el proyecto
 ng new clase1
 ng serve
 para cambiarle el numero de puerto ng serve --port "numero de puerto". no usar los puertos del 0 al 1023. Usar > 4200
