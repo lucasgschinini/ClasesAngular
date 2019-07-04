@@ -25,6 +25,11 @@ ng v (la version de angular)
 
 para crear un nuevo proyecto
 ng new clase1
+ng serve
+para cambiarle el numero de puerto ng serve --port "numero de puerto". no usar los puertos del 0 al 1023. Usar > 4200
+con Cntrl + C cancela el servicio
 
 comandos de typescript empiezan con tsc( los usamos para transpilar: traducir de typescript a javascript)
 
+cls para limpiar la consola
+tree te muestra la estructura de carpetas y subcarpetas que hay
