@@ -1,0 +1,7 @@
+Creamos un proyecto
+y despues componentes
+
+ng g c Componentes
+ng g c Estructura
+ng g c Directivas
+ng g c Formularios
