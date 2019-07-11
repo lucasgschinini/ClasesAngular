@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<div>
+    <button (click)="cambiar=!cambiar" class="btn btn-secondary">{{cambiar?'Ocultar':'Mostrar'}}</button>
+
+    <section *ngIf="cambiar">
+        <h1>
+            Titulo
+        </h1>
+        <img src="{{urlImagen}}" alt="Bandera Grecia">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste eos optio tempora numquam inventore dignissimos distinctio! Esse consequatur ex, tenetur odit libero ut quae quasi minima vel ea cupiditate iure.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste eos optio tempora numquam inventore dignissimos distinctio! Esse consequatur ex, tenetur odit libero ut quae quasi minima vel ea cupiditate iure.</p>
+
+    </section>
+</div>
