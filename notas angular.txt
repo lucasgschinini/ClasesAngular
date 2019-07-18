@@ -42,3 +42,6 @@ carpeta asset para insertar img, videos, sonidos.. etc
 
 generar nuevos componentes
 ng g c nombreDelComponente g(generate) c(component)
+
+generar servicios
+(database.service.ts) ng generate service
