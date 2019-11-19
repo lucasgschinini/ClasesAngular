@@ -1,0 +1,7 @@
+table * img{
+    width: 50px;
+}
+
+table,tr,td{
+    background-color: rgba(180,76,20,0.5);
+}
